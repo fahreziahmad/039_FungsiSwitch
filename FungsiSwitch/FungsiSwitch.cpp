@@ -18,3 +18,7 @@ int pengurangan(int a, int b)
 {
     return a + b;
 }
+int peperkalian(int a, int b)
+{
+    return a + b;
+}
